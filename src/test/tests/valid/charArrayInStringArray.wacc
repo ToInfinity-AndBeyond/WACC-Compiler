@@ -1,0 +1,4 @@
+begin
+    char[] cs = [];
+    string[] s = [cs]
+end

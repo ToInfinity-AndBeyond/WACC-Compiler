@@ -1,0 +1,3 @@
+begin
+    if false then int x = 3;; x = 4 else int y = 2 end
+end
